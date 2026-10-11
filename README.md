@@ -3776,6 +3776,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔒 <a name="security"></a>Security
 
+- [rsh1k/mcp-gate](https://github.com/rsh1k/mcp-gate) 🍎 🪟 🐧 - Zero-dependency stdio proxy enforcing allow/deny/approval/redact on every `tools/call`, with argument-aware conditions, session budgets, hash-chained audit logs, and NIST/OWASP evidence reports
 - [tunahanaliozturk/derbent](https://github.com/tunahanaliozturk/derbent) [![tunahanaliozturk/derbent MCP server](https://glama.ai/mcp/servers/tunahanaliozturk/derbent/badges/score.svg)](https://glama.ai/mcp/servers/tunahanaliozturk/derbent) 🏎️ 🏠 🍎 🪟 🐧 - One local gate for Claude Code, Codex, Copilot CLI and Antigravity: allow, deny and ask rules over MCP and built-in tool calls, approvals from a terminal UI, and hash-chained receipts.
 - [fredyee/hallucc-mcp](https://github.com/fredyee/hallucc-mcp) [![fredyee/hallucc-mcp MCP server](https://glama.ai/mcp/servers/fredyee/hallucc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fredyee/hallucc-mcp) 📇 ☁️ - Claim-level hallucination detection with sources, agent trajectory verification, risk gating for computer-use actions and prompt-injection defense.
 - [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) [![ucsandman/DashClaw MCP server](https://glama.ai/mcp/servers/ucsandman/DashClaw/badges/score.svg)](https://glama.ai/mcp/servers/ucsandman/DashClaw) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Fail-closed approval layer for unattended agent runs: checks actions against org policy, requests human approval and logs every decision to a causal ledger.
